@@ -1,0 +1,14 @@
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/bin/Debug/net8.0/WorkWithFiles
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/bin/Debug/net8.0/WorkWithFiles.deps.json
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/bin/Debug/net8.0/WorkWithFiles.runtimeconfig.json
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/bin/Debug/net8.0/WorkWithFiles.dll
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/bin/Debug/net8.0/WorkWithFiles.pdb
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/obj/Debug/net8.0/WorkWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/obj/Debug/net8.0/WorkWithFiles.AssemblyInfoInputs.cache
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/obj/Debug/net8.0/WorkWithFiles.AssemblyInfo.cs
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/obj/Debug/net8.0/WorkWithFiles.csproj.CoreCompileInputs.cache
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/obj/Debug/net8.0/WorkWithFiles.dll
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/obj/Debug/net8.0/refint/WorkWithFiles.dll
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/obj/Debug/net8.0/WorkWithFiles.pdb
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/obj/Debug/net8.0/WorkWithFiles.genruntimeconfig.cache
+/Users/nyitraibence/Desktop/C#projects/WorkWithFiles/WorkWithFiles/obj/Debug/net8.0/ref/WorkWithFiles.dll
