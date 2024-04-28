@@ -12,5 +12,3 @@ File.WriteAllText("story.txt", storyText);
 
 string readStory = File.ReadAllText("story.txt");
 Console.WriteLine(readStory);
-
-//
